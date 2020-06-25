@@ -1,1 +1,4 @@
-console.log("general kenobi");
+(function ()
+{
+  console.log("general kenobi");
+}());
